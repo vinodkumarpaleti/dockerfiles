@@ -1,0 +1,4 @@
+FROM almalinux:8
+ENV NAME=VINODKUMAR \
+    AGE=30 \
+    ADDRESS=HYDERABAD
